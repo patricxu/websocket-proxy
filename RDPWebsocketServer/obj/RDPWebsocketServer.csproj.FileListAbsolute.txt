@@ -1,0 +1,5 @@
+C:\Users\qxu\Desktop\html5 rdp\rdp Websocket proxy\RDPWebsocketServer\bin\Debug\RDPWebsocketServer.exe
+C:\Users\qxu\Desktop\html5 rdp\rdp Websocket proxy\RDPWebsocketServer\bin\Debug\RDPWebsocketServer.pdb
+C:\Users\qxu\Desktop\html5 rdp\rdp Websocket proxy\RDPWebsocketServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qxu\Desktop\html5 rdp\rdp Websocket proxy\RDPWebsocketServer\obj\Debug\RDPWebsocketServer.exe
+C:\Users\qxu\Desktop\html5 rdp\rdp Websocket proxy\RDPWebsocketServer\obj\Debug\RDPWebsocketServer.pdb
